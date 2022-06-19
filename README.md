@@ -1,18 +1,22 @@
-Project on follow-up to campaigns against sexual violence
+Request with retrofit and coroutines
 =====================================
-The idea of the project is to know the performance of the campaigns against sexual violence and to know where it should be deployed to inform more to the citizens of Bogota
+The goal of this sample is to show how to implement retrofit with an API about of dogs and provides a consistent user experience
+on Android phones using coroutines. 
 
-if you wish read about this project, i leave you a link [Documentation](https://github.com/Enrique213-VP/Project_Inv/blob/master/others/documents/Entregable_Third_RayBarreto.pdf).
+To watch videos about mobile development [Svape](https://www.youtube.com/channel/UCboflaSQt7bDGp9dzw_eSow/).
 
-![Screenshot inicio App](https://github.com/Enrique213-VP/Project_Inv/blob/master/others/img/inicio.jpeg)
-![Screenshot permisos para la encuesta](https://github.com/Enrique213-VP/Project_Inv/blob/master/others/img/encuesta.jpeg)
+![Screenshot inicio App](https://github.com/Enrique213-VP/Project-Retrofit/blob/master/docs/Start.jpg)
+![Screenshot busqueda raza de perro](https://github.com/Enrique213-VP/Project-Retrofit/blob/master/docs/Search.jpg)
 
 
-Interfaz encuesta
+Pre-requisites
 --------------
 
-![Screenshot primera parte](https://github.com/Enrique213-VP/Project_Inv/blob/master/others/img/primera%20parte.jpeg)
-![Screenshot final encuesta](https://github.com/Enrique213-VP/Project_Inv/blob/master/others/img/ultima%20parte.jpeg)
+- Android Studio 3.x
+- Retrofit2
+- Picasso
+- coroutines
+- RecyclerView
 
 Getting Started
 ---------------
@@ -20,18 +24,13 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Version 1.0
+Support
 -------
 
-- In its first version the information is stored in an activity temporarily, however, it is expected to add a database to deploy the app on several devices and store the answers.
+- Coroutines: https://www.geeksforgeeks.org/kotlin-coroutines-on-android/
 
 If you've found an error in this sample, please write to me
 [file an issue](https://www.linkedin.com/in/svap/)
 
 Patches are encouraged and may be submitted by forking this project and
 submitting a pull request through GitHub.
-
-
-
-
-
